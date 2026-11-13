@@ -1,0 +1,6 @@
+{
+  "name": "eMigr8 Recommendation Engine",
+  "description": "An interactive, expert recommender engine that drafts UK Global Talent Visa recommendation letters for the Tech Nation endorsement pathway with absolute formatting and criteria compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
